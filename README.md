@@ -11,4 +11,4 @@ Computer Engineering student at the Budapest University of Technology and Econom
 
 **Tools**: Python · C++ · SQL · Java · Linux · Docker · PostgreSQL · LightGBM · XGBoost · PyTorch · pandas · Azure · AWS · GitHub Actions
 
-[LinkedIn]([YOUR-LINKEDIN-URL](https://linkedin.com/in/yahya-akhrikhar))
+[LinkedIn](https://linkedin.com/in/yahya-akhrikhar)

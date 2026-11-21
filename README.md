@@ -66,7 +66,7 @@ LightGBM, XGBoost, PyTorch, FAISS
 |:---:|---|---|
 | <img src="https://skillicons.dev/icons?i=py" width="36" alt="Python"> | **Python** | **Research:** every experiment, model and statistical test · **Market Watch:** Django backend, sentiment evaluation · **Alignerr:** reproducing bugs and running test suites in open-source repositories · **Outlier:** reviewing model-generated code |
 | <img src="https://skillicons.dev/icons?i=cpp" width="36" alt="C++"> | **C++** | **Market Watch:** C++20 matching engine, CMake, AddressSanitizer/UBSan · **Outlier:** reviewing model-generated C++ |
-| <img src="https://skillicons.dev/icons?i=java" width="36" alt="Java"> | **Java** | **Outlier:** reviewing model-generated Java · real-time chat application with Spring Boot and WebSockets |
+| <img src="https://skillicons.dev/icons?i=java" width="36" alt="Java"> | **Java** | **Outlier:** reviewing model-generated Java · [real-time chat application](https://github.com/yahyaakh/Real-Time-Multi-User-Chat-Application-Spring-Boot-WebSockets-) with Spring Boot and WebSockets |
 | <img src="https://skillicons.dev/icons?i=linux" width="36" alt="Linux"> <img src="https://skillicons.dev/icons?i=bash" width="36" alt="Bash"> | **Linux, Bash** | **Alignerr:** Linux test environments for open-source test suites · **Market Watch:** Ubuntu CI, data download scripts |
 | <img src="https://skillicons.dev/icons?i=docker" width="36" alt="Docker"> | **Docker** | **Alignerr:** throwaway PostgreSQL databases and Linux test containers · **Market Watch:** production image, health-checked in CI |
 | <img src="https://skillicons.dev/icons?i=postgres" width="36" alt="PostgreSQL"> | **PostgreSQL, SQL** | **Alignerr:** triggers, LISTEN/NOTIFY, identifier limits, schema migrations |

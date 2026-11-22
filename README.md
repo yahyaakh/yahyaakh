@@ -34,9 +34,9 @@ and build systems projects in C++ and Python.
   through Jira, validating auction data, and managing user access (two-factor authentication, SSO).
 
 **AI Coding Evaluator, Software Engineering** · Alignerr · Aug 2026 – present
-- Reproducing real bugs in open-source Python repositories (a PostgreSQL LISTEN/NOTIFY limit in *procrastinate*, a
-  1.1 GB / 3.25 s trace-loading problem in *viztracer*) and grading AI coding agents' fixes against written acceptance
-  criteria and their execution logs.
+- Evaluating AI coding agents on real software-engineering work (bug fixes, new features, performance and maintenance
+  tasks) in open-source repositories: designing each task and its acceptance criteria, grading honesty, confidence,
+  agentic safety and instruction-following, and checking every claim against the agents' execution evidence.
 
 **AI Code Evaluator & Reviewer** · Outlier · Oct 2024 – Aug 2026
 - Promoted to reviewer: final quality check on model-generated Python, C++ and Java code. Red-teamed LLM safeguards and
@@ -64,12 +64,12 @@ LightGBM, XGBoost, PyTorch, FAISS
 
 | | Tool | Where I used it |
 |:---:|---|---|
-| <img src="https://skillicons.dev/icons?i=py" width="36" alt="Python"> | **Python** | **Research:** every experiment, model and statistical test · **Market Watch:** Django backend, sentiment evaluation · **Alignerr:** reproducing bugs and running test suites in open-source repositories · **Outlier:** reviewing model-generated code |
+| <img src="https://skillicons.dev/icons?i=py" width="36" alt="Python"> | **Python** | **Research:** every experiment, model and statistical test · **Market Watch:** Django backend, sentiment evaluation · **Alignerr:** setting up and running test suites of open-source repositories to check AI agents' work · **Outlier:** reviewing model-generated code |
 | <img src="https://skillicons.dev/icons?i=cpp" width="36" alt="C++"> | **C++** | **Market Watch:** C++20 matching engine, CMake, AddressSanitizer/UBSan · **Outlier:** reviewing model-generated C++ |
 | <img src="https://skillicons.dev/icons?i=java" width="36" alt="Java"> | **Java** | **Outlier:** reviewing model-generated Java · [real-time chat application](https://github.com/yahyaakh/Real-Time-Multi-User-Chat-Application-Spring-Boot-WebSockets-) with Spring Boot and WebSockets |
 | <img src="https://skillicons.dev/icons?i=linux" width="36" alt="Linux"> <img src="https://skillicons.dev/icons?i=bash" width="36" alt="Bash"> | **Linux, Bash** | **Alignerr:** Linux test environments for open-source test suites · **Market Watch:** Ubuntu CI, data download scripts |
 | <img src="https://skillicons.dev/icons?i=docker" width="36" alt="Docker"> | **Docker** | **Alignerr:** throwaway PostgreSQL databases and Linux test containers · **Market Watch:** production image, health-checked in CI |
-| <img src="https://skillicons.dev/icons?i=postgres" width="36" alt="PostgreSQL"> | **PostgreSQL, SQL** | **Alignerr:** triggers, LISTEN/NOTIFY, identifier limits, schema migrations |
+| <img src="https://skillicons.dev/icons?i=postgres" width="36" alt="PostgreSQL"> | **PostgreSQL, SQL** | **Alignerr:** PostgreSQL test databases in Docker for evaluation tasks |
 | <img src="https://skillicons.dev/icons?i=sklearn" width="36" alt="scikit-learn"> | **LightGBM, XGBoost, scikit-learn** | **Research:** the learning-to-rank ensemble that won the final test · a LightGBM news ranker on MIND |
 | <img src="https://skillicons.dev/icons?i=pytorch" width="36" alt="PyTorch"> | **PyTorch** | **Research:** neural collaborative filtering, two-tower and generative semantic-ID models |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" alt="pandas"> | **pandas, NumPy** | **Research:** data pipelines for 25 million ratings and 2.2 million news impressions; paired tests and bootstrap confidence intervals |
